@@ -3,7 +3,7 @@
 
 - 🌱 Currently leveling up my skills in **Python**
 
-- 💬 Ask me about **React.js, Vue.js, Node.js, TypeScript, Angular.js, Express.js, and JavaScript**
+- 💬 Ask me about **React.js, Angular.js, Vue.js, Node.js, Express.js, TypeScript, and JavaScript**
 
 - 📫 Reach me at: **muneebmughal342@gmail.com**
 
