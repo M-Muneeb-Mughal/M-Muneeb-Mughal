@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! 👋 I'm Muhammad Muneeb</h1>
-<h3 align="center">Passionate Full-Stack Developer | Based in Pakistan</h3>
+<h3 align="center">Full-Stack Developer | Based in Pakistan</h3>
 
-- 🌱 Currently leveling up my skills in **Python**
+- 🌱 Currently leveling up my skills in **Adonisjs**
 
-- 💬 Ask me about **React.js, Angular.js, Vue.js, Node.js, Express.js, TypeScript, and JavaScript**
+- 💬 Ask me about **React.js, Vue.js, Node.js, Express.js, Adonis.js TypeScript, and JavaScript**
 
 - 📫 Reach me at: **muneebmughal342@gmail.com**
 
@@ -15,13 +15,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="express" width="60" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
